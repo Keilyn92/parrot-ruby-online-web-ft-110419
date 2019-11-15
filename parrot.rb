@@ -1,5 +1,5 @@
-def parrot(phase)
-    phase "Squawk!"
+def parrot(phase = "Squawk!")
+    
 end
   
 
