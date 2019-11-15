@@ -1,5 +1,5 @@
 def parrot(phase = "Squawk!")
-  puts
+  puts phase
     
 end
   
