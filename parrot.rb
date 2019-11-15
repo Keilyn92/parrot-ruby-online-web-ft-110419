@@ -1,5 +1,5 @@
-def greeting "Parrot"
-  puts "Squawk!"
+def parrot(phase)
+    phase "Squawk!"
 end
   
 
